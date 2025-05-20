@@ -1,0 +1,20 @@
+###################################
+##DEFAULT KEYBINDINGS IN HYPRLAND##
+###################################
+
+Terminal = Super + Q (kitty)
+Close = Super + C
+Leave hyprland = Super + M
+File Manager = Super + E (thunar)
+Floating Mode = Super + V
+Browser = Super + W (firefox)
+Full screen = Super + F
+
+Change waybar style = Super + Shift + a
+Toggle Floating mode = Super + shift + s
+lock = Super + shift + l
+screenshot = super + shift + t
+Color Picker = Super + shift + p
+Change wallpaper = Super + shift + w
+
+

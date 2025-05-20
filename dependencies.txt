@@ -1,0 +1,5 @@
+optional: foot, electricity
+
+needed: kitty, neovim, rofi, swaync, pywal, waybar, wofi, swww, hyprpicker
+for waybars greatwork: pavucontrol, nmtui, blueman-manager, playerctl, pamixer
+
